@@ -25,12 +25,11 @@ Turn data into information and information into insight.
 
 Krypter safely encrypts and stores your passwords on your phone. This means no more having to remember hundreds of different passwords for all of your accounts.
 
-[Learn More...](http://bproothi.github.io/krypter)
+[Learn More...](https://bproothi.github.io/krypter)
 
 ### More Coming Soon...
-Follow me on [Twitter](https://www.twitter.com/benproothi) and [Facebook](https://www.facebook.com/ben.proothi) to stay updated 
+Follow me on [Twitter](https://www.twitter.com/benproothi) and [Facebook](https://www.facebook.com/ben.proothi) to stay updated.
 
 
 ## Contact Us
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Contact Us](http://bproothi.github.io/krypter)
