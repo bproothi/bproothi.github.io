@@ -32,4 +32,4 @@ Follow me on [Twitter](https://www.twitter.com/benproothi) and [Facebook](https:
 
 
 ## Contact Us
-[Contact Us](http://bproothi.github.io/krypter) for support, business inquiries, or suggestions.
+[Contact Us](http://bproothi.github.io/contact) for support, business inquiries, or suggestions.
