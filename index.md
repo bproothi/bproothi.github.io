@@ -10,6 +10,13 @@ I create and develop beautiful things that are engaging, interactive and user fr
 ## My Skill Set
 
 ### UX Solutions
+Building bridges between users and clients.
+
+### Front-End Development
+Delivering your vision to users around the world.
+
+### Data Science
+Turn data into information and information into insight.
 
 
 ### Jekyll Themes
