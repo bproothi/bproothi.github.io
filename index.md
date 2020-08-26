@@ -3,33 +3,15 @@ layout: default
 title: Proothi Tech Solutions
 ---
 
-## Meet Ben Proothi
+# Meet Ben Proothi
 
 I create and develop beautiful things that are engaging, interactive and user friendly. Get in touch to find out how my coding services can suit your needs.
 
-### Markdown
+## My Skill Set
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+###UX Solutions
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
