@@ -5,9 +5,7 @@ title: Proothi Tech Solutions
 
 ## Meet Ben Proothi
 
-You can use the [editor on GitHub](https://github.com/bproothi/bproothi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I create and develop beautiful things that are engaging, interactive and user friendly. Get in touch to find out how my coding services can suit your needs.
 
 ### Markdown
 
