@@ -7,15 +7,12 @@ title: Proothi Tech Solutions
 
 I create and develop beautiful things that are engaging, interactive and user friendly. Get in touch to find out how my coding services can suit your needs.
 
-
 ## My Skill Set
 
 ### UI Solutions
 Building bridges between users and clients.
-
 ### Front-End Development
 Delivering your vision to users around the world.
-
 ### Data Science
 Turn data into information and information into insight.
 
@@ -28,6 +25,8 @@ Turn data into information and information into insight.
 Krypter safely encrypts and stores your passwords on your phone. This means no more having to remember hundreds of different passwords for all of your accounts.
 
 [Learn More...](http://bproothi.github.io/krypter)
+
+### More Coming Soon
 
 
 ### Support or Contact
