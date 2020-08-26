@@ -4,12 +4,10 @@ title: Proothi Tech Solutions
 ---
 
 # Meet Ben Proothi
-
 I create and develop beautiful things that are engaging, interactive and user friendly. Get in touch to find out how my coding services can suit your needs.
 
 
 ## My Skill Set
-
 ### UI Solutions
 Building bridges between users and clients.
 ### Front-End Development
@@ -19,7 +17,6 @@ Turn data into information and information into insight.
 
 
 ## Apps
-
 ### Krypter
 **Password Storage & Encryption**
 
