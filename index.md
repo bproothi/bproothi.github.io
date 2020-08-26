@@ -7,9 +7,10 @@ title: Proothi Tech Solutions
 
 I create and develop beautiful things that are engaging, interactive and user friendly. Get in touch to find out how my coding services can suit your needs.
 
+
 ## My Skill Set
 
-### UX Solutions
+### UI Solutions
 Building bridges between users and clients.
 
 ### Front-End Development
@@ -19,9 +20,15 @@ Delivering your vision to users around the world.
 Turn data into information and information into insight.
 
 
-### Jekyll Themes
+## Apps
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bproothi/bproothi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Krypter
+**Password Storage & Encryption**
+
+Krypter safely encrypts and stores your passwords on your phone. This means no more having to remember hundreds of different passwords for all of your accounts.
+
+[Learn More...](http://bproothi.github.io/krypter)
+
 
 ### Support or Contact
 
