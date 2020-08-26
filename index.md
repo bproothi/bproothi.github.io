@@ -29,7 +29,8 @@ Krypter safely encrypts and stores your passwords on your phone. This means no m
 
 [Learn More...](./krypter.html)
 
-### More Coming Soon...
+
+## More Coming Soon...
 Follow me on [Twitter](https://www.twitter.com/benproothi) and [Facebook](https://www.facebook.com/ben.proothi) to stay updated.
 
 
