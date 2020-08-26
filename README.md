@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Benjamin Proothi
+title: Proothi Tech Solutions
 ---
 
-## Welcome to GitHub Pages
+## Meet Ben Proothi
 
 You can use the [editor on GitHub](https://github.com/bproothi/bproothi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
