@@ -9,8 +9,7 @@ I create and develop beautiful things that are engaging, interactive and user fr
 
 ## My Skill Set
 
-###UX Solutions
-
+### UX Solutions
 
 
 ### Jekyll Themes
