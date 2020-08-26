@@ -7,6 +7,7 @@ title: Proothi Tech Solutions
 
 I create and develop beautiful things that are engaging, interactive and user friendly. Get in touch to find out how my coding services can suit your needs.
 
+
 ## My Skill Set
 
 ### UI Solutions
@@ -26,9 +27,10 @@ Krypter safely encrypts and stores your passwords on your phone. This means no m
 
 [Learn More...](http://bproothi.github.io/krypter)
 
-### More Coming Soon
+### More Coming Soon...
+Follow me on [Twitter](https://www.twitter.com/benproothi) and [Facebook](https://www.facebook.com/ben.proothi) to stay updated 
 
 
-### Support or Contact
+## Contact Us
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
