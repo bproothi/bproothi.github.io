@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Proothi Tech Solutions
+title: Proothi Tech
 ---
 
 # Meet Ben Proothi
