@@ -18,3 +18,45 @@ For business inquiries, please contact us at [info@proothitech.com](mailto:info@
 * * *
 
 [Privacy Policy](./privacypolicy.html)
+
+<html>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 20px;
+}
+
+.column img {
+  margin-top: 12px;
+}
+</style>
+<body>
+
+<!-- Header -->
+<div class="header">
+  <h1>Image Grid</h1>
+</div>
+
+<!-- Photo Grid -->
+<div class="row"> 
+  <div class="column">
+  <img src="screenshots/1:8.png" style="width:100%">
+  <img src="screenshots/2:8.png" style="width:100%">
+  <img src="screenshots/3:8.png" style="width:100%">
+  <img src="screenshots/4:8.png" style="width:100%">
+  </div>
+  <div class="column">
+  <img src="screenshots/5:8.png" style="width:100%">
+  <img src="screenshots/6:8.png" style="width:100%">
+  <img src="screenshots/7:8.png" style="width:100%">
+  <img src="screenshots/8:8.png" style="width:100%">
+  </div>
+</div>
+</body>
+</html>
