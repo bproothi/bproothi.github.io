@@ -22,11 +22,11 @@ Turn data into information and information into insight.
 ### Krypter
 **Password Storage & Encryption**
 
-<img width="100" alt="Krypter Icon" src="kryptericon.png">
+<img width="100" alt="Krypter Icon" src="krypter/icon.png">
 
 Krypter safely encrypts and stores your passwords on your phone. No more having to remember hundreds of passwords as Krypter keeps them right at your fingertips.
 
-[Learn More...](./krypter.html)
+[Learn More...](./krypter/main.html)
 
 * * *
 
