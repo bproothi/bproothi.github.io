@@ -38,8 +38,8 @@ Follow me on [Twitter](https://www.twitter.com/benproothi) and [Facebook](https:
 * * *
 
 ## Contact Us
-[Contact Us](./contact.html) for support, business inquiries, or suggestions.
+[Contact Us](contact.html) for support, business inquiries, or suggestions.
 
 * * *
 
-[Privacy Policy](./privacypolicy.html)
+[Privacy Policy](privacypolicy.html)
