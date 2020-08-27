@@ -3,7 +3,7 @@ layout: default
 title: Krypter
 ---
 
-[< Home](../)
+[< Home](../#krypter)
 
 # Krypter
 **Password Storage & Encryption**
@@ -72,7 +72,7 @@ Best of all, Krypter is 100% free!
 
 [Privacy Policy](./privacypolicy.html)
 
-[< Home](../)
+[< Home](../#krypter)
 
 * * *
 
