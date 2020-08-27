@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Krypter - Privacy Policy
+---
 
 [< Krypter](./main.html)
 
