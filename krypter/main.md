@@ -68,11 +68,9 @@ Best of all, Krypter is 100% free!
 
 * * *
 
-## Agreements
+## Legal
 
 [Privacy Policy](./privacypolicy.html)
-
-[EULA](./eula.html)
 
 [< Home](../)
 
