@@ -41,4 +41,5 @@ Follow me on [Twitter](https://www.twitter.com/benproothi) and [Facebook](https:
 * * *
 
 [Privacy Policy](./privacypolicy.html)
+
 [Terms of Service](./termsofservice.html)
