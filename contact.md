@@ -13,6 +13,8 @@ For support, please reach out to us at [support@proothitech.com](mailto:support@
 ## Business Inquiries
 For business inquiries, please contact us at [info@proothitech.com](mailto:info@proothitech.com) and we will get back to you as soon as possible.
 
+[< Home](./)
+
 * * *
 
 [Privacy Policy](./privacypolicy.html)
