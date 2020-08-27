@@ -8,6 +8,7 @@ title: Privacy Policy
 [< Home](./)
 
 **Privacy Policy of www.proothitech.com**
+
 This Application collects some Personal Data from its Users.
 
 This document contains a section dedicated to Californian consumers and their privacy rights.
