@@ -2,6 +2,7 @@
 layout: default
 title: Proothi Tech
 ---
+<link rel="shortcut icon" type="image/png" href="favicon.ico">
 
 # Meet Ben Proothi
 I create and innovative apps that are engaging, interactive and user friendly. Get in touch to find out how my coding services can suit your needs.
