@@ -11,31 +11,31 @@ title: Privacy Policy
 
 This Application collects some Personal Data from its Users.
 
-This document contains a section dedicated to Californian consumers and their privacy rights.
-This document contains a section dedicated to Brazilian Users and their privacy rights.
+This document contains a section dedicated to Californian consumers and their privacy rights.  
+This document contains a section dedicated to Brazilian Users and their privacy rights.  
 This document can be printed for reference by using the print command in the settings of any browser.
 
 ## Owner and Data Controller
-Benjamin Proothi - 8 Wellington Drive Stony Brook, NY 11790
+Benjamin Proothi - 8 Wellington Drive Stony Brook, NY 11790  
 **Owner contact email:** info@proothitech.com
 
 * * *
 
 ## Types of Data collected
-The owner does not provide a list of Personal Data types collected.
-Complete details on each type of Personal Data collected are provided in the dedicated sections of this privacy policy or by specific explanation texts displayed prior to the Data collection.
-Personal Data may be freely provided by the User, or, in case of Usage Data, collected automatically when using this Application.
-Unless specified otherwise, all Data requested by this Application is mandatory and failure to provide this Data may make it impossible for this Application to provide its services. In cases where this Application specifically states that some Data is not mandatory, Users are free not to communicate this Data without consequences to the availability or the functioning of the Service.
-Users who are uncertain about which Personal Data is mandatory are welcome to contact the Owner.
-Any use of Cookies – or of other tracking tools – by this Application or by the owners of third-party services used by this Application serves the purpose of providing the Service required by the User, in addition to any other purposes described in the present document and in the Cookie Policy, if available.
-Users are responsible for any third-party Personal Data obtained, published or shared through this Application and confirm that they have the third party's consent to provide the Data to the Owner.
+The owner does not provide a list of Personal Data types collected.  
+Complete details on each type of Personal Data collected are provided in the dedicated sections of this privacy policy or by specific explanation texts displayed prior to the Data collection.  
+Personal Data may be freely provided by the User, or, in case of Usage Data, collected automatically when using this Application.  
+Unless specified otherwise, all Data requested by this Application is mandatory and failure to provide this Data may make it impossible for this Application to provide its services. In cases where this Application specifically states that some Data is not mandatory, Users are free not to communicate this Data without consequences to the availability or the functioning of the Service.  
+Users who are uncertain about which Personal Data is mandatory are welcome to contact the Owner.  
+Any use of Cookies – or of other tracking tools – by this Application or by the owners of third-party services used by this Application serves the purpose of providing the Service required by the User, in addition to any other purposes described in the present document and in the Cookie Policy, if available.  
+Users are responsible for any third-party Personal Data obtained, published or shared through this Application and confirm that they have the third party's consent to provide the Data to the Owner.  
 
 * * *
 
 ## Mode and place of processing the Data
 
 ### Methods of processing
-The Owner takes appropriate security measures to prevent unauthorized access, disclosure, modification, or unauthorized destruction of the Data.
+The Owner takes appropriate security measures to prevent unauthorized access, disclosure, modification, or unauthorized destruction of the Data.  
 The Data processing is carried out using computers and/or IT enabled tools, following organizational procedures and modes strictly related to the purposes indicated. In addition to the Owner, in some cases, the Data may be accessible to certain types of persons in charge, involved with the operation of this Application (administration, sales, marketing, legal, system administration) or external parties (such as third-party technical service providers, mail carriers, hosting providers, IT companies, communications agencies) appointed, if necessary, as Data Processors by the Owner. The updated list of these parties may be requested from the Owner at any time.
 
 ### Legal basis of processing
@@ -50,7 +50,7 @@ In any case, the Owner will gladly help to clarify the specific legal basis that
 ### Place
 The Data is processed at the Owner's operating offices and in any other places where the parties involved in the processing are located.
 
-Depending on the User's location, data transfers may involve transferring the User's Data to a country other than their own. To find out more about the place of processing of such transferred Data, Users can check the section containing details about the processing of Personal Data.
+Depending on the User's location, data transfers may involve transferring the User's Data to a country other than their own. To find out more about the place of processing of such transferred Data, Users can check the section containing details about the processing of Personal Data.  
 Users are also entitled to learn about the legal basis of Data transfers to a country outside the European Union or to any international organization governed by public international law or set up by two or more countries, such as the UN, and about the security measures taken by the Owner to safeguard their Data.
 
 If any such transfer takes place, Users can find out more by checking the relevant sections of this document or inquire with the Owner using the information provided in the contact section.
@@ -67,7 +67,7 @@ Once the retention period expires, Personal Data shall be deleted. Therefore, th
 * * *
 
 ## The purposes of processing
-The Data concerning the User is collected to allow the Owner to provide its Service, comply with its legal obligations, respond to enforcement requests, protect its rights and interests (or those of its Users or third parties), detect any malicious or fraudulent activity, as well as the following: Hosting and backend infrastructure.
+The Data concerning the User is collected to allow the Owner to provide its Service, comply with its legal obligations, respond to enforcement requests, protect its rights and interests (or those of its Users or third parties), detect any malicious or fraudulent activity, as well as the following: Hosting and backend infrastructure.  
 For specific information about the Personal Data used for each purpose, the User may refer to the section “Detailed information on the processing of Personal Data”.
 
 * * *
@@ -76,18 +76,18 @@ For specific information about the Personal Data used for each purpose, the User
 Personal Data is collected for the following purposes and using the following services:
 
 ### Hosting and backend infrastructure
-This type of service has the purpose of hosting Data and files that enable this Application to run and be distributed as well as to provide a ready-made infrastructure to run specific features or parts of this Application.
-Some services among those listed below, if any, may work through geographically distributed servers, making it difficult to determine the actual location where the Personal Data are stored.
-**GitHub Pages (GitHub Inc.)**
-GitHub Pages is a hosting service provided by GitHub, Inc.
-Personal Data processed: various types of Data as specified in the privacy policy of the service.
-Place of processing: United States – Privacy Policy. Privacy Shield participant.
-Category of personal data collected according to CCPA: internet information.
+This type of service has the purpose of hosting Data and files that enable this Application to run and be distributed as well as to provide a ready-made infrastructure to run specific features or parts of this Application.  
+Some services among those listed below, if any, may work through geographically distributed servers, making it difficult to determine the actual location where the Personal Data are stored.  
+**GitHub Pages (GitHub Inc.)**  
+GitHub Pages is a hosting service provided by GitHub, Inc.  
+Personal Data processed: various types of Data as specified in the privacy policy of the service.  
+Place of processing: United States – Privacy Policy. Privacy Shield participant.  
+Category of personal data collected according to CCPA: internet information.  
 
 * * *
 
 ## The rights of Users
-Users may exercise certain rights regarding their Data processed by the Owner.
+Users may exercise certain rights regarding their Data processed by the Owner.  
 In particular, Users have the right to do the following:
 - **Withdraw their consent at any time.** Users have the right to withdraw consent where they have previously given their consent to the processing of their Personal Data.
 - **Object to processing of their Data.** Users have the right to object to the processing of their Data if the processing is carried out on a legal basis other than consent. Further details are provided in the dedicated section below.
@@ -99,7 +99,7 @@ In particular, Users have the right to do the following:
 - **Lodge a complaint.** Users have the right to bring a claim before their competent data protection authority.
 
 ### Details about the right to object to processing
-Where Personal Data is processed for a public interest, in the exercise of an official authority vested in the Owner or for the purposes of the legitimate interests pursued by the Owner, Users may object to such processing by providing a ground related to their particular situation to justify the objection.
+Where Personal Data is processed for a public interest, in the exercise of an official authority vested in the Owner or for the purposes of the legitimate interests pursued by the Owner, Users may object to such processing by providing a ground related to their particular situation to justify the objection.  
 Users must know that, however, should their Personal Data be processed for direct marketing purposes, they can object to that processing at any time without providing any justification. To learn, whether the Owner is processing Personal Data for direct marketing purposes, Users may refer to the relevant sections of this document.
 
 ### How to exercise these rights
@@ -110,7 +110,7 @@ Any requests to exercise User rights can be directed to the Owner through the co
 ## Additional information about Data collection and processing
 
 ### Legal action
-The User's Personal Data may be used for legal purposes by the Owner in Court or in the stages leading to possible legal action arising from improper use of this Application or the related Services.
+The User's Personal Data may be used for legal purposes by the Owner in Court or in the stages leading to possible legal action arising from improper use of this Application or the related Services.  
 The User declares to be aware that the Owner may be required to reveal personal data upon request of public authorities.
 
 ### Additional information about User's Personal Data
@@ -123,7 +123,7 @@ For operation and maintenance purposes, this Application and any third-party ser
 More details concerning the collection or processing of Personal Data may be requested from the Owner at any time. Please see the contact information at the beginning of this document.
 
 ### How “Do Not Track” requests are handled
-This Application does not support “Do Not Track” requests.
+This Application does not support “Do Not Track” requests.  
 To determine whether any of the third-party services it uses honor the “Do Not Track” requests, please read their privacy policies.
 
 ### Changes to this privacy policy
@@ -134,71 +134,71 @@ Should the changes affect processing activities performed on the basis of the Us
 * * *
 
 ## Information for Californian consumers
-This part of the document integrates with and supplements the information contained in the rest of the privacy policy and is provided by the business running this Application and, if the case may be, its parent, subsidiaries and affiliates (for the purposes of this section referred to collectively as “we”, “us”, “our”).
-The provisions contained in this section apply to all Users who are consumers residing in the state of California, United States of America, according to "The California Consumer Privacy Act of 2018" (Users are referred to below, simply as “you”, “your”, “yours”), and, for such consumers, these provisions supersede any other possibly divergent or conflicting provisions contained in the privacy policy.
+This part of the document integrates with and supplements the information contained in the rest of the privacy policy and is provided by the business running this Application and, if the case may be, its parent, subsidiaries and affiliates (for the purposes of this section referred to collectively as “we”, “us”, “our”).  
+The provisions contained in this section apply to all Users who are consumers residing in the state of California, United States of America, according to "The California Consumer Privacy Act of 2018" (Users are referred to below, simply as “you”, “your”, “yours”), and, for such consumers, these provisions supersede any other possibly divergent or conflicting provisions contained in the privacy policy.  
 This part of the document uses the term “personal information“ as it is defined in The California Consumer Privacy Act (CCPA).
 
 ### Categories of personal information collected, disclosed or sold
 In this section we summarize the categories of personal information that we've collected, disclosed or sold and the purposes thereof. **You can read about these activities in detail in the section titled “Detailed information on the processing of Personal Data” within this document.**
 
 ### Information we collect: the categories of personal information we collect
-We have collected the following categories of personal information about you: internet information.
+We have collected the following categories of personal information about you: internet information.  
 We will not collect additional categories of personal information without notifying you.
 
 ### How we collect information: what are the sources of the personal information we collect?
-We collect the above mentioned categories of personal information, either directly or indirectly, from you when you use this Application.
+We collect the above mentioned categories of personal information, either directly or indirectly, from you when you use this Application.  
 For example, you directly provide your personal information when you submit requests via any forms on this Application. You also provide personal information indirectly when you navigate this Application, as personal information about you is automatically observed and collected. Finally, we may collect your personal information from third parties that work with us in connection with the Service or with the functioning of this Application and features thereof.
 
 ### How we use the information we collect: sharing and disclosing of your personal information with third parties for a business purpose
-We may disclose the personal information we collect about you to a third party for business purposes. In this case, we enter a written agreement with such third party that requires the recipient to both keep the personal information confidential and not use it for any purpose(s) other than those necessary for the performance of the agreement.
-We may also disclose your personal information to third parties when you explicitly ask or authorize us to do so, in order to provide you with our Service.
+We may disclose the personal information we collect about you to a third party for business purposes. In this case, we enter a written agreement with such third party that requires the recipient to both keep the personal information confidential and not use it for any purpose(s) other than those necessary for the performance of the agreement.  
+We may also disclose your personal information to third parties when you explicitly ask or authorize us to do so, in order to provide you with our Service.  
 To find out more about the purposes of processing, please refer to the relevant section of this document.
 
 ### No sale of your personal information
 In the past 12 months we have not sold any of your personal information.
 
 ### What are the purposes for which we use your personal information?
-We may use your personal information to allow the operational functioning of this Application and features thereof (“business purposes”). In such cases, your personal information will be processed in a fashion necessary and proportionate to the business purpose for which it was collected, and strictly within the limits of compatible operational purposes.
-We may also use your personal information for other reasons such as for commercial purposes (as indicated within the section “Detailed information on the processing of Personal Data” within this document), as well as for complying with the law and defending our rights before the competent authorities where our rights and interests are threatened or we suffer an actual damage.
+We may use your personal information to allow the operational functioning of this Application and features thereof (“business purposes”). In such cases, your personal information will be processed in a fashion necessary and proportionate to the business purpose for which it was collected, and strictly within the limits of compatible operational purposes.  
+We may also use your personal information for other reasons such as for commercial purposes (as indicated within the section “Detailed information on the processing of Personal Data” within this document), as well as for complying with the law and defending our rights before the competent authorities where our rights and interests are threatened or we suffer an actual damage.  
 We will not use your personal information for different, unrelated, or incompatible purposes without notifying you.
 
 ### Your California privacy rights and how to exercise them
 
 ### The right to know and to portability
 You have the right to request that we disclose to you:
-the categories and sources of the personal information that we collect about you, the purposes for which we use your information and with whom such information is - shared;
+- the categories and sources of the personal information that we collect about you, the purposes for which we use your information and with whom such information is shared;
 - in case of sale of personal information or disclosure for a business purpose, two separate lists where we disclose:
   - for sales, the personal information categories purchased by each category of recipient; and
   - for disclosures for a business purpose, the personal information categories obtained by each category of recipient.
-The disclosure described above will be limited to the personal information collected or used over the past 12 months.
+The disclosure described above will be limited to the personal information collected or used over the past 12 months.  
 If we deliver our response electronically, the information enclosed will be "portable", i.e. delivered in an easily usable format to enable you to transmit the information to another entity without hindrance – provided that this is technically feasible.
 
 ### The right to request the deletion of your personal information
-You have the right to request that we delete any of your personal information, subject to exceptions set forth by the law (such as, including but not limited to, where the information is used to identify and repair errors on this Application, to detect security incidents and protect against fraudulent or illegal activities, to exercise certain rights etc.).
+You have the right to request that we delete any of your personal information, subject to exceptions set forth by the law (such as, including but not limited to, where the information is used to identify and repair errors on this Application, to detect security incidents and protect against fraudulent or illegal activities, to exercise certain rights etc.).  
 If no legal exception applies, as a result of exercising your right, we will delete your personal information and direct any of our service providers to do so.
 
 ### How to exercise your rights
-To exercise the rights described above, you need to submit your verifiable request to us by contacting us via the details provided in this document.
+To exercise the rights described above, you need to submit your verifiable request to us by contacting us via the details provided in this document.  
 For us to respond to your request, it’s necessary that we know who you are. Therefore, you can only exercise the above rights by making a verifiable request which must:
 - provide sufficient information that allows us to reasonably verify you are the person about whom we collected personal information or an authorized representative;
 - describe your request with sufficient detail that allows us to properly understand, evaluate, and respond to it.
-We will not respond to any request if we are unable to verify your identity and therefore confirm the personal information in our possession actually relates to you.
-If you cannot personally submit a verifiable request, you can authorize a person registered with the California Secretary of State to act on your behalf.
-If you are an adult, you can make a verifiable request on behalf of a minor under your parental authority.
+We will not respond to any request if we are unable to verify your identity and therefore confirm the personal information in our possession actually relates to you.  
+If you cannot personally submit a verifiable request, you can authorize a person registered with the California Secretary of State to act on your behalf.  
+If you are an adult, you can make a verifiable request on behalf of a minor under your parental authority.  
 You can submit a maximum number of 2 requests over a period of 12 months.
 
 ### How and when we are expected to handle your request
-We will confirm receipt of your verifiable request within 10 days and provide information about how we will process your request.
-We will respond to your request within 45 days of its receipt. Should we need more time, we will explain to you the reasons why, and how much more time we need. In this regard, please note that we may take up to 90 days to fulfill your request.
-Our disclosure(s) will cover the preceding 12 month period.
-Should we deny your request, we will explain you the reasons behind our denial.
+We will confirm receipt of your verifiable request within 10 days and provide information about how we will process your request.  
+We will respond to your request within 45 days of its receipt. Should we need more time, we will explain to you the reasons why, and how much more time we need. In this regard, please note that we may take up to 90 days to fulfill your request.  
+Our disclosure(s) will cover the preceding 12 month period.  
+Should we deny your request, we will explain you the reasons behind our denial.  
 We do not charge a fee to process or respond to your verifiable request unless such request is manifestly unfounded or excessive. In such cases, we may charge a reasonable fee, or refuse to act on the request. In either case, we will communicate our choices and explain the reasons behind it.
 
 * * *
 
 ## Information for Users residing in Brazil
-This part of the document integrates with and supplements the information contained in the rest of the privacy policy and is provided by the entity running this Application and, if the case may be, its parent, subsidiaries and affiliates (for the purposes of this section referred to collectively as “we”, “us”, “our”).
-The provisions contained in this section apply to all Users who reside in Brazil, according to the "Lei Geral de Proteção de Dados" (Users are referred to below, simply as “you”, “your”, “yours”). For such Users, these provisions supersede any other possibly divergent or conflicting provisions contained in the privacy policy. 
+This part of the document integrates with and supplements the information contained in the rest of the privacy policy and is provided by the entity running this Application and, if the case may be, its parent, subsidiaries and affiliates (for the purposes of this section referred to collectively as “we”, “us”, “our”).  
+The provisions contained in this section apply to all Users who reside in Brazil, according to the "Lei Geral de Proteção de Dados" (Users are referred to below, simply as “you”, “your”, “yours”). For such Users, these provisions supersede any other possibly divergent or conflicting provisions contained in the privacy policy.  
 This part of the document uses the term “personal information“ as it is defined in the Lei Geral de Proteção de Dados (**LGPD**).
 
 ### The grounds on which we process your personal information
@@ -244,11 +244,11 @@ You will never be discriminated against, or otherwise suffer any sort of detrime
 You can file your express request to exercise your rights free from any charge, at any time, by using the contact details provided in this document, or via your legal representative.
 
 ### How and when we will respond to your request
-We will strive to promptly respond to your requests.
-In any case, should it be impossible for us to do so, we’ll make sure to communicate to you the factual or legal reasons that prevent us from immediately, or otherwise ever, complying with your requests. In cases where we are not processing your personal information, we will indicate to you the physical or legal person to whom you should address your requests, if we are in the position to do so.
-In the event that you file an **access** or personal information **processing confirmation** request, please make sure that you specify whether you’d like your personal information to be delivered in electronic or printed form. 
-You will also need to let us know whether you want us to answer your request immediately, in which case we will answer in a simplified fashion, or if you need a complete disclosure instead. 
-In the latter case, we’ll respond within 15 days from the time of your request, providing you with all the information on the origin of your personal information, confirmation on whether or not records exist, any criteria used for the processing and the purposes of the processing, while safeguarding our commercial and industrial secrets.
+We will strive to promptly respond to your requests.  
+In any case, should it be impossible for us to do so, we’ll make sure to communicate to you the factual or legal reasons that prevent us from immediately, or otherwise ever, complying with your requests. In cases where we are not processing your personal information, we will indicate to you the physical or legal person to whom you should address your requests, if we are in the position to do so.  
+In the event that you file an **access** or personal information **processing confirmation** request, please make sure that you specify whether you’d like your personal information to be delivered in electronic or printed form.   
+You will also need to let us know whether you want us to answer your request immediately, in which case we will answer in a simplified fashion, or if you need a complete disclosure instead.  
+In the latter case, we’ll respond within 15 days from the time of your request, providing you with all the information on the origin of your personal information, confirmation on whether or not records exist, any criteria used for the processing and the purposes of the processing, while safeguarding our commercial and industrial secrets.  
 In the event that you file a **rectification, deletion, anonymization or personal information blocking** request, we will make sure to immediately communicate your request to other parties with whom we have shared your personal information in order to enable such third parties to also comply with your request – except in cases where such communication is proven impossible or involves disproportionate effort on our side.
 
 ### Transfer of personal information outside of Brazil permitted by the law
@@ -262,6 +262,6 @@ We are allowed to transfer your personal information outside of the Brazilian te
 
 * * *
 
-Last update: August 27, 2020
+Last update: August 28, 2020
 
 [< Home](./)
