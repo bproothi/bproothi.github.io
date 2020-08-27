@@ -61,3 +61,9 @@ Best of all, Krypter is 100% free!
 </div>
 </body>
 </html>
+
+* * *
+
+### Agreements
+
+[Privacy Policy](./krypter/privacypolicy.html
