@@ -55,4 +55,5 @@ If you have any questions or suggestions about my Privacy Policy, do not hesitat
 
 * * *
 
-[Privacy Policy](../privacypolicy.html)
+[Privacy Policy](../privacypolicy.html)  
+© 2020 Benjamin Proothi
