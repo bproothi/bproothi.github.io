@@ -3,10 +3,12 @@ layout: default
 title: Krypter
 ---
 
+[< Home](../)
+
 # Krypter
 **Password Storage & Encryption**
 
-[< Home](../)
+
 
 Krypter safely encrypts and stores your passwords on your phone. No more having to remember hundreds of passwords as Krypter keeps them right at your fingertips.
 
@@ -68,12 +70,12 @@ Best of all, Krypter is 100% free!
 
 ## Agreements
 
-[Privacy Policy](./krypter/privacypolicy.html)
+[Privacy Policy](./privacypolicy.html)
 
-[EULA](./krypter/eula.html)
+[EULA](./eula.html)
 
 [< Home](../)
 
 * * *
 
-[Privacy Policy](./privacypolicy.html)
+[Privacy Policy](../privacypolicy.html)
