@@ -6,6 +6,8 @@ title: Krypter
 ## Krypter
 **Password Storage & Encryption**
 
+[< Home](./)
+
 Krypter safely encrypts and stores your passwords on your phone. No more having to remember hundreds of passwords as Krypter keeps them right at your fingertips.
 
 Tired of searching endlessly for a password? Krypter AutoFills your passwords into your mobile browser.
@@ -53,7 +55,7 @@ Best of all, Krypter is 100% free!
   <img src="screenshots/4:8.png" alt="AutoFill" style="width:20%">
   </div>
   <div class="column">
-  <img src="screenshos/5:8.png" alt="Face ID" style="width:20%">
+  <img src="screenshots/5:8.png" alt="Face ID" style="width:20%">
   <img src="screenshots/6:8.png" alt="Share Password" style="width:20%">
   <img src="screenshots/7:8.png" alt="Suggest Password" style="width:20%">
   <img src="screenshots/8:8.png" alt="iCloud Sync" style="width:20%">
@@ -67,3 +69,11 @@ Best of all, Krypter is 100% free!
 ### Agreements
 
 [Privacy Policy](./krypter/privacypolicy.html
+
+[EULA](./krypter/eula.html)
+
+[< Home](./)
+
+* * *
+
+[Privacy Policy](./privacypolicy.html)
