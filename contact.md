@@ -17,5 +17,5 @@ For business inquiries, please contact us at [info@proothitech.com](mailto:info@
 
 * * *
 
-[Privacy Policy](./privacypolicy.html)
+[Privacy Policy](./privacypolicy.html)  
 © 2020 Benjamin Proothi
