@@ -3,7 +3,8 @@ layout: default
 title: Privacy Policy
 ---
 
-[< Home](./#contact-us)
+[< Home](#contact-us)
+t
 
 # Privacy Policy
 
@@ -264,4 +265,4 @@ We are allowed to transfer your personal information outside of the Brazilian te
 
 Last update: August 28, 2020
 
-[< Home](./#contact-us)
+[< Home](#contact-us)
