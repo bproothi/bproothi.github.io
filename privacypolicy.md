@@ -3,9 +3,9 @@ layout: default
 title: Privacy Policy
 ---
 
-# Privacy Policy
-
 [< Home](./#contact-us)
+
+# Privacy Policy
 
 **Privacy Policy of www.proothitech.com**
 
