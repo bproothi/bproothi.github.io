@@ -3,13 +3,10 @@ layout: default
 title: Proothi Tech
 ---
 <head>
-  <link rel="icon" type="image/x-icon" href="favicons/favicon:16.png" sizes=16x16>
-  <link rel="icon" type="image/x-icon" href="favicons/favicon:32.png" sizes=32x32>
-  <link rel="icon" type="image/x-icon" href="favicons/favicon:96.png" sizes=96x96>
+  <link rel="shortcut icon" type="image/x-icon" href="https://www.google.com/favicon.ico?">
 </head>
 
 # Meet Ben Proothi
-DONE
 I create and innovative apps that are engaging, interactive and user friendly. Get in touch to find out how my coding services can suit your needs.
 
 * * *
