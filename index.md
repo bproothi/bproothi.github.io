@@ -3,7 +3,9 @@ layout: default
 title: Proothi Tech
 ---
 <head>
-  <link rel="shortcut icon" type="image/png" href="favicon.png">
+  <link rel="icon" type="image/x-icon" href="favicons/favicon:16.png" sizes=16x16>
+  <link rel="icon" type="image/x-icon" href="favicons/favicon:32.png" sizes=32x32>
+  <link rel="icon" type="image/x-icon" href="favicons/favicon:96.png" sizes=96x96>
 </head>
 
 # Meet Ben Proothi
