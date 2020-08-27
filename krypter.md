@@ -34,8 +34,8 @@ Best of all, Krypter is 100% free!
 /* Create two equal columns that floats next to each other */
 .column {
   float: left;
-  width: 50%;
-  padding: 20px;
+  width: 100%;
+  padding: 22px;
 }
 
 .column img {
