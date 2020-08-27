@@ -3,7 +3,7 @@ layout: default
 title: Krypter
 ---
 
-## Krypter
+## Krypterh
 **Password Storage & Encryption**
 
 Krypter safely encrypts and stores your passwords on your phone. No more having to remember hundreds of passwords as Krypter keeps them right at your fingertips.
