@@ -2,12 +2,8 @@
 layout: default
 title: Proothi Tech
 ---
-<head>
-  <link rel="shortcut icon" type="image/x-icon" href="https://www.google.com/favicon.ico?">
-</head>
 
 # Meet Ben Proothi
-TEST
 I create and innovative apps that are engaging, interactive and user friendly. Get in touch to find out how my coding services can suit your needs.
 
 * * *
