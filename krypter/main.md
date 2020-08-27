@@ -8,7 +8,7 @@ title: Krypter
 # Krypter
 **Password Storage & Encryption**
 
-
+<img width="100" alt="Icon" src="icon.png">
 
 Krypter safely encrypts and stores your passwords on your phone. No more having to remember hundreds of passwords as Krypter keeps them right at your fingertips.
 
