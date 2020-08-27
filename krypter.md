@@ -39,7 +39,7 @@ Best of all, Krypter is 100% free!
 }
 
 .column img {
-  margin-top: 12px;
+  margin-top: 2px;
 }
 </style>
 <body>
