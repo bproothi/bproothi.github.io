@@ -3,7 +3,7 @@ layout: default
 title: Krypter
 ---
 
-## Krypter
+# Krypter
 **Password Storage & Encryption**
 
 [< Home](./)
@@ -25,7 +25,7 @@ Best of all, Krypter is 100% free!
 
 * * *
 
-### Screenshots
+## Screenshots
 
 <html>
 <style>
@@ -66,7 +66,7 @@ Best of all, Krypter is 100% free!
 
 * * *
 
-### Agreements
+## Agreements
 
 [Privacy Policy](./krypter/privacypolicy.html)
 
