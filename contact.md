@@ -14,3 +14,4 @@ For business inquiries, please contact us at [info@proothitech.com](mailto:info@
 * * *
 
 [Privacy Policy](./privacypolicy.html)
+[Terms of Service](./termsofservice.html)
