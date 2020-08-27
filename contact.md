@@ -11,7 +11,7 @@ For business inquiries, please contact us at [info@proothitech.com](info@proothi
 # Support
 For support, please reach out to us at [support@proothitech.com](support@proothitech.com) or feel free to DM us on [Twitter](http://twitter.com/benproothi).
 
-<form method=“POST” action=“https://formspree.io/support@proothitech.com”>
+<form action=“https://formspree.io/support@proothitech.com”>
   Name: <input type=“text” name=“Name” placeholder=“Johnny Appleseed”>
   Email: <input type=“text” name=“_replyto” placeholder=“example@site.com”>
   Message: <textarea name=“message” placeholder=“Message”></textarea>
