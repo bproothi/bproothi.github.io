@@ -265,3 +265,7 @@ We are allowed to transfer your personal information outside of the Brazilian te
 Last update: August 28, 2020
 
 [< Home](./#contact-us)
+
+* * *
+
+© 2020 Benjamin Proothi
