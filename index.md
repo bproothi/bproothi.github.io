@@ -4,7 +4,7 @@ title: Proothi Tech Solutions
 ---
 
 # Meet Ben Proothi
-I create and develop beautiful things that are engaging, interactive and user friendly. Get in touch to find out how my coding services can suit your needs.
+I create and innovative apps that are engaging, interactive and user friendly. Get in touch to find out how my coding services can suit your needs.
 
 
 ## My Skill Set
@@ -22,7 +22,7 @@ Turn data into information and information into insight.
 
 <img width="100" alt="Krypter Icon" src="kryptericon.png">
 
-Krypter safely encrypts and stores your passwords on your phone. This means no more having to remember hundreds of different passwords for all of your accounts.
+Krypter safely encrypts and stores your passwords on your phone. No more having to remember hundreds of passwords as Krypter keeps them right at your fingertips.
 
 [Learn More...](./krypter.html)
 
