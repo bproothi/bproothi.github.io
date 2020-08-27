@@ -5,8 +5,6 @@ title: Krypter
 
 [< Home](../)
 
-[VIEW ALTERNATE](./alt.html)
-
 # Krypter
 **Password Storage & Encryption**
 
