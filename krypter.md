@@ -47,16 +47,16 @@ Best of all, Krypter is 100% free!
 <!-- Photo Grid -->
 <div class="row"> 
   <div class="column">
-  <img src="screenshots/1:8.png" style="width:40%">
-  <img src="screenshots/2:8.png" style="width:40%">
-  <img src="screenshots/3:8.png" style="width:40%">
-  <img src="screenshots/4:8.png" style="width:40%">
+  <img src="screenshots/1:8.png" style="width:20%">
+  <img src="screenshots/2:8.png" style="width:20%">
+  <img src="screenshots/3:8.png" style="width:20%">
+  <img src="screenshots/4:8.png" style="width:20%">
   </div>
   <div class="column">
-  <img src="screenshots/5:8.png" style="width:40%">
-  <img src="screenshots/6:8.png" style="width:40%">
-  <img src="screenshots/7:8.png" style="width:40%">
-  <img src="screenshots/8:8.png" style="width:40%">
+  <img src="screenshots/5:8.png" style="width:20%">
+  <img src="screenshots/6:8.png" style="width:20%">
+  <img src="screenshots/7:8.png" style="width:20%">
+  <img src="screenshots/8:8.png" style="width:20%">
   </div>
 </div>
 </body>
