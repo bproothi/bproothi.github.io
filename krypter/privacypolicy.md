@@ -3,7 +3,7 @@ layout: default
 title: Krypter - Privacy Policy
 ---
 
-[< Krypter](./main.html)
+[< Krypter](info.html/#legal)
 
 # Privacy Policy
 
@@ -52,7 +52,7 @@ This policy is effective as of 2020-08-27
 ## Contact Us
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at info@proothitech.com.
 
-[< Krypter](./main.html)
+[< Krypter](main.html/#legal)
 
 * * *
 
