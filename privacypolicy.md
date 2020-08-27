@@ -7,7 +7,7 @@ title: Privacy Policy
 
 # Privacy Policy
 
-**Privacy Policy of www.proothitech.com**
+**Privacy Policy of [www.proothitech.com](http://proothitech.com)**
 
 This Application collects some Personal Data from its Users.
 
