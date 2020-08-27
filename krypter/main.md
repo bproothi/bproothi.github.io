@@ -23,7 +23,7 @@ Speaking of encryption, Krypter uses bank-level, 512-bit encryption to keep your
 
 Best of all, Krypter is 100% free!
 
-[<img src="appstore.png" width="50"/>](https://apps.apple.com/us/app/id1523774990)
+[<img src="../appstore.png" height="50"/>](https://apps.apple.com/us/app/id1523774990)
 
 * * *
 
