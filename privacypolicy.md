@@ -3,6 +3,8 @@ layout: default
 title: Privacy Policy
 ---
 
+# Privacy Policy
+
 ## Types of Data collected
 
 The owner does not provide a list of Personal Data types collected.
