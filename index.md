@@ -44,4 +44,3 @@ Follow me on [Twitter](https://www.twitter.com/benproothi) and [Facebook](https:
 
 [Privacy Policy](privacypolicy.html)  
 © 2020 Benjamin Proothi
-<a id="#footer"></a>
