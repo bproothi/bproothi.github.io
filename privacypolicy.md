@@ -5,7 +5,7 @@ title: Privacy Policy
 
 # Privacy Policy
 
-[< Home](./#footer)
+[< Home](./#contact-us)
 
 **Privacy Policy of www.proothitech.com**
 
@@ -264,4 +264,4 @@ We are allowed to transfer your personal information outside of the Brazilian te
 
 Last update: August 28, 2020
 
-[< Home](./#footer)
+[< Home](./#contact-us)
