@@ -26,6 +26,8 @@ Turn data into information and information into insight.
 
 Krypter safely encrypts and stores your passwords on your phone. No more having to remember hundreds of passwords as Krypter keeps them right at your fingertips.
 
+[<img src="../appstore.png" height="50"/>](https://apps.apple.com/us/app/id1523774990)
+
 [Learn More...](./krypter/main.html)
 
 * * *
