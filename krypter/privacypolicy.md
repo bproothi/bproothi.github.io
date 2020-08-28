@@ -70,7 +70,7 @@ This policy is effective as of 2020-08-27
 ## Contact Us
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at info@proothitech.com.
 
-[< Krypter](main.html#legal)
+[< Krypter](info.html#legal)
 
 * * *
 
