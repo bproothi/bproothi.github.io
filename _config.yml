@@ -1,3 +1,4 @@
 title: Proothi Tech
+description: 
 exclude: ['./README.md']
 theme: jekyll-theme-cayman 
