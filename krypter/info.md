@@ -15,7 +15,7 @@ Krypter safely encrypts and stores your passwords on your phone. No more having 
 Tired of searching endlessly for a password? Krypter AutoFills your passwords into your mobile browser.
 Worried about hackers? Krypter stores all data on your device and out of their reach.
 Forget your master password? Use Touch ID or Face ID to log in with ease.
-Need a new password? Krypter will suggest a strong, randomized password.
+Need a new password? Krypter can suggest a strong, randomized password right from your browser.
 
 In addition, Krypter uses iCloud to sync your passwords across all of your devices.
 If you need to share a password with somebody else, you can use our custom file format to securely send it using end-to-end encryption.
@@ -65,6 +65,17 @@ Best of all, Krypter has no subscriptions or ads!
 </div>
 </body>
 </html>
+
+* * *
+
+## Update Notes
+
+### 1.1.0
+_December 18, 2020_
+
+Our first update includes loads of new features including support for iPad, a new password suggestion feature, UI changes, major performance improvements, and bug fixes. In addition, we decided to remove ads for all users!
+
+Thanks for your support, and remember to contact us at info@proothitech.com with any questions, concerns, or just to say hi!
 
 * * *
 
