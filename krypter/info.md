@@ -75,7 +75,10 @@ _December 18, 2020_
 
 Our first update includes loads of new features including support for iPad, a new password suggestion feature, UI changes, major performance improvements, and bug fixes. In addition, we decided to remove ads for all users!
 
-Thanks for your support, and remember to contact us at info@proothitech.com with any questions, concerns, or just to say hi!
+### 1.1.1
+_TBA_
+
+Squashed some bugs.
 
 * * *
 
